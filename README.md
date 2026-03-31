@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer • Web Enthusiast • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelixNihBous&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=felixzxzxzx&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🟩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelixNihBous&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felixzxzxzx&theme=tokyo-night" />
 </p>
 
 ---
