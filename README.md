@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,figma,vscode" />
 </p>
 
 ---
