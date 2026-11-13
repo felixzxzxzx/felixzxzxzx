@@ -34,10 +34,10 @@
 
 ---
 
-## 🟩 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felixzxzxzx&theme=tokyo-night" />
+  <img height="165" src="https://streak-stats.demolab.com?user=felixzxzxzx&theme=tokyonight" />
 </p>
 
 ---
